@@ -9,8 +9,6 @@ A modern, interactive sales analytics dashboard built with Streamlit and Plotly.
 - **Data Cleaning & Preprocessing:** Robust pipeline ensures accurate, reliable analytics from raw CSV files.
 - **Expandable Raw Data View:** Inspect the underlying data directly in the dashboard.
 
-## 📊 Dashboard Preview
-![Dashboard Screenshot](dashboard_screenshot.png)
 
 ## 🏗️ Project Structure
 ```
@@ -50,8 +48,9 @@ A modern, interactive sales analytics dashboard built with Streamlit and Plotly.
 - **Impressive Visuals:** Modern, publication-quality charts and responsive layout.
 
 ## 📬 Contact
-For questions, suggestions, or collaboration, please reach out via [LinkedIn](https://www.linkedin.com/) or open an issue.
+For questions, suggestions, or collaboration, please reach out via [LinkedIn](https://www.linkedin.com/in/obumneme-nkeanyadi-7888b52a8/) or open an issue.
 
 ---
 
 > "Data is the new oil. This dashboard helps you refine it."
+
